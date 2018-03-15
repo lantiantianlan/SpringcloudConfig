@@ -1,5 +1,1 @@
-mail:
-  mailServer: https://cnml2mail.deloitte.com/EWS/Exchange.asmx
-  userName: nonreply-tacservice
-  password: Ratac12#$!
-  domain: atrapa.deloitte.com
+lan:lan
